@@ -1,0 +1,12 @@
+c:\users\iaman\documents\visual studio 2015\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\iaman\Documents\Visual Studio 2015\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\iaman\Documents\Visual Studio 2015\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\iaman\Documents\Visual Studio 2015\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\iaman\Documents\Visual Studio 2015\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\iaman\Documents\Visual Studio 2015\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
+C:\Users\iaman\Documents\Visual Studio 2017\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\iaman\Documents\Visual Studio 2017\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\iaman\Documents\Visual Studio 2017\Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\iaman\Documents\Visual Studio 2017\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\iaman\Documents\Visual Studio 2017\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\iaman\Documents\Visual Studio 2017\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
